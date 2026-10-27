@@ -1,3 +1,3 @@
 a=11
-b=12
-print(a+b)
+b=1
+print(a*b)
